@@ -1,4 +1,4 @@
-#PONG
+# PONG
 
 PONG game built in LÖVE 2D (Lua) featuring two-player local multiplayer while following Harvard’s CS50's Introduction to Game Development course.
 
